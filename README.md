@@ -1,3 +1,4 @@
+commit dps do clone
 # 🛒MERCADO TADS - E-commerce Frontend
 Este projeto foi desenvolvido como parte da disciplina de Desenvolvimento Web 1 e consiste na implementação da página inicial de um e-commerce fictício chamado Mercado TADS. O objetivo foi recriar fielmente um layout proposto, utilizando apenas HTML e CSS, com foco em estrutura semântica, estilização responsiva e atenção aos detalhes visuais.
 
