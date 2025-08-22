@@ -29,5 +29,5 @@ projeto_unidade_1/
 └── README.md
 ```
 
-# 📄 Lincença
+# 📄 Licença
 Este projeto foi desenvolvido para fins educacionais.
